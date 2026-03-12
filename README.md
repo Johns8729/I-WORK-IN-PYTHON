@@ -26,10 +26,8 @@ The project is divided into three files:
 
 5. At the end, a **daily summary** is displayed with all the products sold and the total amount collected.
 
-## 📊 Flowchart
+## 📊 Flowchart 
 
 
+<img width="670" height="1161" alt="Diagrama sin título drawio" src="https://github.com/user-attachments/assets/87d93fd7-38c1-4cfa-bf13-c575656dc6bd" />
 
-✅ Esto hará que **GitHub muestre el diagrama automáticamente** dentro del README.
-
-Si quieres, también puedo hacerte una **versión más bonita del README para GitHub (con emojis, secciones y mejor formato)** que se vea más **profesional para tu portafolio**.
