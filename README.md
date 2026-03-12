@@ -29,5 +29,6 @@ The project is divided into three files:
 ## 📊 Flowchart 
 
 
-<img width="670" height="1161" alt="Diagrama sin título drawio" src="https://github.com/user-attachments/assets/87d93fd7-38c1-4cfa-bf13-c575656dc6bd" />
+![Diagrama sin título](https://github.com/user-attachments/assets/98a6daca-60a4-427e-a6f8-061dbdcf2d53)
+
 
