@@ -1,9 +1,3 @@
-Puedes colocar el **diagrama directamente en el README usando Mermaid**, así GitHub lo mostrará como un **diagrama de flujo real**.
-
-Aquí tienes el README con el **diagrama incluido**:
-
----
-
 # 📦 Simple Sales System in Python
 
 This project is a small **Python program** that simulates recording sales in a store. It allows the user to enter products, their price, and the quantity sold, calculates the total for each sale, and finally shows a summary of the day.
