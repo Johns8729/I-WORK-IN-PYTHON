@@ -1,9 +1,9 @@
 # Function that displays the daily sales summary
-def mostrar_resumen(productos, total_del_dia):
+def mostrar_resumen(products, total_del_dia):
 
-    print("\nResumen del día:")
+    print("\nSummary of the day")
 
-    for producto, precio, cantidad in productos:
-        print(f"Producto: {producto} | Precio: {precio} | Cantidad: {cantidad}")
+    for Product, Price , amount in products:
+        print(f"Product: {Product} | Price: {Price} | Quantity: {amount}")
   # Display the total amount collected during the day
-    print(f"Total recaudado en el día: ${total_del_dia:.2f}")
+    print(f"Daily summary: ${total_del_dia:.2f}")
