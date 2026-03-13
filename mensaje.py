@@ -1,4 +1,4 @@
- Function that displays the daily sales summary
+#Function that displays the daily sales summary
 def Show_summary(products, total_del_dia):
 
     print("\nSummary of the day")
