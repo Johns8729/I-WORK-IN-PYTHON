@@ -71,7 +71,7 @@ python main.py
 
 This diagram shows the logic and structure of the store sales recording program.
 
-
+![architrcture Diagram](john.png)
 
 --- 
 # Link Repository 
